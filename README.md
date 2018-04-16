@@ -27,12 +27,13 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 
 ## Contents
 
+1. [References/Documentation](#referencesdocumentation)
 1. [Tutorials](#tutorials)
 1. [Talks](#talks)
 1. [Community Packages](#community-packages)
 1. [User Stories - Blog Posts](#user-stories---blog-posts)
 
-## Referenzes/Documentation
+## References/Documentation
 
 * [Official Flow Doc](http://flowframework.readthedocs.io/en/stable/)
 * [Official Neos Doc](http://neos.readthedocs.io/en/stable/)
